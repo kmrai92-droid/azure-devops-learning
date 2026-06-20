@@ -27,6 +27,29 @@ Learning Azure hierarchy, IAM, governance and networking.
 
 ### Terraform Azure VM Deployment
 
+## Learning Roadmap
+
+### Azure
+
+- Resource Group
+- Virtual Network (VNet)
+- Subnet
+- Network Security Group (NSG)
+- Public IP
+- Network Interface (NIC)
+- Virtual Machine (VM)
+
+### DevOps Tools
+
+- Git
+- GitHub
+- Terraform
+- Linux
+
+## Current Goal
+
+Transitioning from Infrastructure & Operations to Cloud Engineering.
+
 Deploying Azure infrastructure using Terraform.
 
 ### Linux Commands Notes
